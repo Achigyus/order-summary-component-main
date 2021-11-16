@@ -48,7 +48,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main - This is an amaz
 ## Author
 
 - Website - [Achi Gyuse Achi](https://www.github.com/Achigyus)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Achigyus)
+- Frontend Mentor - [@Achigyus](https://www.frontendmentor.io/profile/Achigyus)
 - Twitter - [@gyuseachi](https://www.twitter.com/gyuseachi)
 
 
